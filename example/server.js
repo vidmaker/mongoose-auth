@@ -9,7 +9,7 @@ everyauth.debug = true;
 
 var mongoose = require('mongoose')
   , Schema = mongoose.Schema
-  , ObjectId = mongoose.SchemaTypes.ObjectId;
+  , ObjectId = mongoose.Schema.Types.ObjectId;
 
 var UserSchema = new Schema({})
   , User;
