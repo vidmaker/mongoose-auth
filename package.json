@@ -16,7 +16,7 @@
     "bcrypt": ">=0.5.0",
     "mongoose": ">=2.4.8",
     "mongoose-types" : "git://github.com/vidmaker/mongoose-types.git",
-    "everyauth": "0.2.32"
+    "everyauth": "git://github.com/bnoguchi/everyauth.git#express3"
   },
   "devDependencies": {
     "express": ">=2.3.2",
